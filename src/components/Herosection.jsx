@@ -29,7 +29,7 @@ const Herosection = ({ onFilter }) => {
   return (
   <div className="relative w-full h-[500px] md:h-[600px]">
   <img
-    src="../src/assets/hero.jpg"
+    src="/assets/hero.jpg"
     className="w-full h-full object-cover brightness-75"
     alt="StayFinder Hero"
   />
